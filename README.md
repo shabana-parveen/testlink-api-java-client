@@ -1,5 +1,6 @@
-# https://code.google.com/p/testlink-api-java-client/
+# TestLink API Java Client implementation
 
+Original source: https://code.google.com/p/testlink-api-java-client/
 Original author: danthehorn93@gmail.com
 
 Welcome to the new and improved TestLink API Java Client implementation.
